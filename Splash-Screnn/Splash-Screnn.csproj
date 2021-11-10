@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Splash_Screnn</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PackageId>Sistema Gerenciador</PackageId>
+    <Authors>Software de uso acadêmico</Authors>
+    <Company>Desenv. de Softwares ABC</Company>
+    <Product>Sistema Gerenciador</Product>
+    <Copyright>ABC 2021</Copyright>
+    <Description>Software de uso acadêmico</Description>
+    <AssemblyName>Sistema Gerenciador</AssemblyName>
+  </PropertyGroup>
+
+</Project>
